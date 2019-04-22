@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="appText">Time Left</string>
+    <string name="mdefault">0</string>
+    <string name="result">Not done yet !</string>
+
+</resources>
